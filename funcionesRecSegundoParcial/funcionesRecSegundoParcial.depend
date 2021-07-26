@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627303927 source:c:\users\chuchi\desktop\patu\funcionesrecsegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
